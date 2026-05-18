@@ -38,6 +38,7 @@ https://github.com/google/skywater-pdk-libs-sky130_fd_pr
 
 ##  Design Methodology & Calculations
 
+<img width="751" height="490" alt="Image" src="https://github.com/user-attachments/assets/02c49e1d-bd41-471c-a894-96edd2976288" />
 
 ### Step-1: Calculation of Current
 * Max. power Consumption < 60uW
@@ -73,7 +74,7 @@ https://github.com/google/skywater-pdk-libs-sky130_fd_pr
 * We have made it in deep sub-threshold
 * To reduce channel length modulation used L=1um
 * Finally the size is L=1u, W=5u and M=8
-<img width="1627" height="1002" alt="Image" src="https://github.com/user-attachments/assets/ff5dfebe-3cbf-406b-86bc-535a7c9e530f" />
+
 
 # Component design with spice netlist
 
