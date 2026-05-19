@@ -79,7 +79,6 @@ https://github.com/google/skywater-pdk-libs-sky130_fd_pr
 # Component design with spice netlist
 
 ### PTAT section
-After writing our spice file for our PTAT circuit we will start simulating
 
 #
 Using NGSPICE we will simulate V(qp1), resulting in -0.00173539 mV/deg C
