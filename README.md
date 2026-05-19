@@ -109,3 +109,40 @@ Now will observe our vdd compared to reference and net currents in transient ana
 <img width="1499" height="870" alt="image" src="https://github.com/user-attachments/assets/fbd89476-fa54-4bfd-9b1c-0558921fcb98" />
 
 <img width="1462" height="867" alt="image" src="https://github.com/user-attachments/assets/14168c36-c43a-419d-a864-0ab16c0bb858" />
+
+# Layout
+
+Using magic we will create the layout of our circuit
+
+### Starter circuit
+<img width="762" height="594" alt="image" src="https://github.com/user-attachments/assets/df3caf4b-776b-4bc1-b4ec-fbd35e735609" />
+
+#
+### Res bank
+Created following common centroid matching technique 
+<img width="1276" height="801" alt="image" src="https://github.com/user-attachments/assets/338e588e-59af-447f-b550-7dc141adcdd5" />
+
+#
+### The Pfet layer
+As previously calculated i used 16 transistors + 1 dummy
+<img width="1266" height="801" alt="image" src="https://github.com/user-attachments/assets/87efd72f-168d-46de-835d-c3f455944aa9" />
+<img width="1264" height="771" alt="image" src="https://github.com/user-attachments/assets/f20f48a6-6457-427f-a63e-3e7fccb6d4c7" />
+
+#
+### The Nfet layer
+16 + some dummies, common centroid matching
+<img width="1277" height="796" alt="image" src="https://github.com/user-attachments/assets/f5305220-8584-4987-9310-1db4f9cac634" />
+<img width="1276" height="773" alt="image" src="https://github.com/user-attachments/assets/475dcc3b-3801-42fd-9a6c-20d91135a20d" />
+
+#
+### BJT Layer
+10 Bjt surrounded by dummies, 8 transistors from Q2,1 from Q1,  1 from Q3 
+<img width="1270" height="775" alt="image" src="https://github.com/user-attachments/assets/cfec0593-d2b9-4af8-a52c-f8d9862e42a4" />
+
+#
+### Full circuit layout
+
+<img width="1279" height="775" alt="image" src="https://github.com/user-attachments/assets/514d29fe-a886-40a1-82f5-900074248d5b" />
+<img width="927" height="809" alt="image" src="https://github.com/user-attachments/assets/fe3cf08b-96de-44d8-8b4c-696e5be6bf24" />
+
+
