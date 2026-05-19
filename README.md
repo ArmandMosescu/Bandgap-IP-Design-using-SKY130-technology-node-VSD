@@ -81,8 +81,27 @@ https://github.com/google/skywater-pdk-libs-sky130_fd_pr
 ### PTAT section
 
 #
-Using NGSPICE we will simulate V(qp1), resulting in -0.00173539 mV/deg C
+Using NGSPICE we will simulate the slope of V(qp1), resulting in -0.00173539 mV/deg C
 
 <img width="1542" height="886" alt="image" src="https://github.com/user-attachments/assets/d0b3012b-e90e-46e4-97f6-a1e165d99322" />
 
+### CTAT section
 
+#
+Now will simulate the slope of V(Ra)-(qp2), resulting in 0.0001875 mV/deg C
+
+<img width="512" height="373" alt="image" src="https://github.com/user-attachments/assets/e78d7656-b9a4-4dcc-9610-6324ac043213" />
+
+### Mirror Section and ref current
+
+<img width="1058" height="770" alt="image" src="https://github.com/user-attachments/assets/70931215-cb9d-44f8-8718-4b898c00a05c" />
+
+#
+
+Now will observe our vdd compared to reference and ned currents in transient analysis
+
+<img width="1497" height="861" alt="image" src="https://github.com/user-attachments/assets/3dc810e6-d891-4ad4-b5a2-f77e9f182354" />
+
+<img width="1499" height="870" alt="image" src="https://github.com/user-attachments/assets/fbd89476-fa54-4bfd-9b1c-0558921fcb98" />
+
+<img width="1462" height="867" alt="image" src="https://github.com/user-attachments/assets/14168c36-c43a-419d-a864-0ab16c0bb858" />
