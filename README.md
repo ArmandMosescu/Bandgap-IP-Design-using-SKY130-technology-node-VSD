@@ -112,7 +112,7 @@ Now will observe our vdd compared to reference and net currents in transient ana
 
 # Layout
 
-Using magic we will create the layout of our circuit
+Using Magic layout tool we will create the layout of our circuit
 
 ### Starter circuit
 <img width="762" height="594" alt="image" src="https://github.com/user-attachments/assets/df3caf4b-776b-4bc1-b4ec-fbd35e735609" />
