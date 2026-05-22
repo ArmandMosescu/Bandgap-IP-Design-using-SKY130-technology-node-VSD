@@ -146,3 +146,9 @@ As previously calculated i used 16 transistors + 1 dummy
 <img width="927" height="809" alt="image" src="https://github.com/user-attachments/assets/fe3cf08b-96de-44d8-8b4c-696e5be6bf24" />
 
 
+## Acknowledgements
+
+- [Santunu Sarangi](https://www.linkedin.com/in/santunu-sarangi-b731305b)
+- [Saroj Rout](https://www.linkedin.com/in/sroutk/)
+- [Kunal Ghosh](https://github.com/kunalg123)
+- [VSD-IAT](https://vsdiat.com/)
